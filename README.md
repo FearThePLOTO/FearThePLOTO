@@ -1,9 +1,75 @@
 ## <img src="https://media.giphy.com/media/Zd6jNQEU7m5Ew/giphy.gif" width="40"> About Me
 
 ```bash
-> Identity: PLOTO
-> Status  : Online  ▓▓▓▓▓▓▓▓▓▓ 100%
-> Role    : CSE Student, Linux Nerd, RedTeamer, Bug bounty hunter
+┌───────────────────────────────────────────────┐
+│   P L O T O   //   C Y B E R S E C   U N I T  │
+└───────────────────────────────────────────────┘
+
+┌──(ploto㉿github)-[~/profile]
+└─$ neofetch
+            ⣀⣤⣶⣶⣤⣄
+        ⣠⣾⣿⣿⣿⣿⣿⣿⣷⣄          USER: PLOTO
+      ⣴⣿⣿⣿⡿⠟⠛⠻⢿⣿⣿⣿⣦        ROLE: Cybersecurity Student
+    ⣸⣿⣿⠟⠁        ⠈⠻⣿⣿⣧      TRACK: Pentesting & Bug Bounty
+   ⣿⣿⡟              ⢻⣿⣿     CURRENT OPS:
+  ⣿⣿⡇   ▓▓ RECON        ▓▓    - Web Pentesting
+ ⣸⣿⣿⡇   ▓▓ XSS Hunting   ▓▓    - CTF Solving
+ ⣿⣿⣿⡇   ▓▓ SQLi Exploit  ▓▓    - Red Team Path
+ ⢿⣿⣿⣧   ▓▓ PrivEsc Labs  ▓▓
+  ⠻⣿⣿⣿⣦            SYSTEM: Linux | C++ | JS | Bash
+    ⠻⣿⣿⣿⣦
+      ⠻⣿⣿⣿⣦
+
+
+
+┌──(ploto㉿github)-[~/profile]
+└─$ cat skills.txt
+> Pentesting | Bug Bounty | Red Team Path
+> Codeforces: Pupil — Problem Solver
+> Languages: C • C++ • Java • JavaScript
+> Tools: BurpSuite • Linux • Bash • Git • nmap
+
+
+
+┌──(ploto㉿github)-[~/profile]
+└─$ msfconsole
+Metasploit tip: Bind your reverse shell to a tunnel with set 
+ReverseListenerBindAddress <tunnel_address> and set 
+ReverseListenerBindPort <tunnel_port> (e.g., ngrok)
+                                                  
+
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMM                MMMMMMMMMM
+MMMN$                           vMMMM
+MMMNl  MMMMM             MMMMM  JMMMM
+MMMNl  MMMMMMMN       NMMMMMMM  JMMMM
+MMMNl  MMMMMMMMMNmmmNMMMMMMMMM  JMMMM
+MMMNI  MMMMMMMMMMMMMMMMMMMMMMM  jMMMM
+MMMNI  MMMMMMMMMMMMMMMMMMMMMMM  jMMMM
+MMMNI  MMMMM   MMMMMMM   MMMMM  jMMMM
+MMMNI  MMMMM   MMMMMMM   MMMMM  jMMMM
+MMMNI  MMMNM   MMMMMMM   MMMMM  jMMMM
+MMMNI  WMMMM   MMMMMMM   MMMM#  JMMMM
+MMMMR  ?MMNM             MMMMM .dMMMM
+MMMMNm `?MMM             MMMM` dMMMMM
+MMMMMMN  ?MM             MM?  NMMMMMN
+MMMMMMMMNe                 JMMMMMNMMM
+MMMMMMMMMMNm,            eMMMMMNMMNMM
+MMMMNNMNMMMMMNx        MMMMMMNMMNMMNM
+MMMMMMMMNMMNMMMMm+..+MMNMMNMNMMNMMNMM
+        https://metasploit.com
+
+
+       =[ metasploit v6.4.94-dev                                ]
++ -- --=[ 2,564 exploits - 1,315 auxiliary - 1,683 payloads     ]
++ -- --=[ 432 post - 49 encoders - 13 nops - 9 evasion          ]
+
+Metasploit Documentation: https://docs.metasploit.com/
+The Metasploit Framework is a Rapid7 Open Source Project
+
+msf > 
+
+
 ```
 
 <div align="center">
