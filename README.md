@@ -1,5 +1,3 @@
-## <img src="https://media.giphy.com/media/Zd6jNQEU7m5Ew/giphy.gif" width="40"> About Me
-
 ```bash
 ┌───────────────────────────────────────────────┐
 │   P L O T O   //   C Y B E R S E C   U N I T  │
@@ -15,7 +13,7 @@
   ⣿⣿⡇   ▓▓ RECON        ▓▓    - Web Pentesting
  ⣸⣿⣿⡇   ▓▓ XSS Hunting   ▓▓    - CTF Solving
  ⣿⣿⣿⡇   ▓▓ SQLi Exploit  ▓▓    - Red Team Path
- ⢿⣿⣿⣧   ▓▓ PrivEsc Labs  ▓▓
+ ⢿⣿⣿⣧   ▓▓ PrivEsc Labs  ▓▓    - Reverse Engineering
   ⠻⣿⣿⣿⣦            SYSTEM: Linux | C++ | JS | Bash
     ⠻⣿⣿⣿⣦
       ⠻⣿⣿⣿⣦
@@ -27,47 +25,12 @@
 > Pentesting | Bug Bounty | Red Team Path
 > Codeforces: Pupil — Problem Solver
 > Languages: C • C++ • Java • JavaScript
-> Tools: BurpSuite • Linux • Bash • Git • nmap
+> Tools:  Linux Kali Tools • Bash 
 
 
 
 ┌──(ploto㉿github)-[~/profile]
-└─$ msfconsole
-Metasploit tip: Bind your reverse shell to a tunnel with set 
-ReverseListenerBindAddress <tunnel_address> and set 
-ReverseListenerBindPort <tunnel_port> (e.g., ngrok)
-                                                  
-
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMM                MMMMMMMMMM
-MMMN$                           vMMMM
-MMMNl  MMMMM             MMMMM  JMMMM
-MMMNl  MMMMMMMN       NMMMMMMM  JMMMM
-MMMNl  MMMMMMMMMNmmmNMMMMMMMMM  JMMMM
-MMMNI  MMMMMMMMMMMMMMMMMMMMMMM  jMMMM
-MMMNI  MMMMMMMMMMMMMMMMMMMMMMM  jMMMM
-MMMNI  MMMMM   MMMMMMM   MMMMM  jMMMM
-MMMNI  MMMMM   MMMMMMM   MMMMM  jMMMM
-MMMNI  MMMNM   MMMMMMM   MMMMM  jMMMM
-MMMNI  WMMMM   MMMMMMM   MMMM#  JMMMM
-MMMMR  ?MMNM             MMMMM .dMMMM
-MMMMNm `?MMM             MMMM` dMMMMM
-MMMMMMN  ?MM             MM?  NMMMMMN
-MMMMMMMMNe                 JMMMMMNMMM
-MMMMMMMMMMNm,            eMMMMMNMMNMM
-MMMMNNMNMMMMMNx        MMMMMMNMMNMMNM
-MMMMMMMMNMMNMMMMm+..+MMNMMNMNMMNMMNMM
-        https://metasploit.com
-
-
-       =[ metasploit v6.4.94-dev                                ]
-+ -- --=[ 2,564 exploits - 1,315 auxiliary - 1,683 payloads     ]
-+ -- --=[ 432 post - 49 encoders - 13 nops - 9 evasion          ]
-
-Metasploit Documentation: https://docs.metasploit.com/
-The Metasploit Framework is a Rapid7 Open Source Project
-
-msf > 
+└─$ │
 
 
 ```
@@ -77,31 +40,6 @@ msf >
 </div>
 
 ---
-
-## <img src="https://media.giphy.com/media/Q5hJkz1vZedrW/giphy.gif" width="40"> Tech Arsenal
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/debian/A81D33" height="60" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=matlab" height="60" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
-</div>
-
----
-## <img src="https://media.giphy.com/media/Q5hJkz1vZedrW/giphy.gif" width="40"> Connect with me
 
 <div align="center" spacing='50'>
   <a href="https://www.linkedin.com/in/abdallh-ashraf/" target="_blank">
